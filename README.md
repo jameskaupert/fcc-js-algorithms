@@ -2,7 +2,7 @@
 A place to save freecodecamp.org algorithm challenges
 
 ## Basic
-[ ] Celsius to Fahrenheit Convert
+[ ] Celsius to Fahrenheit Converter
 
 ## Intermediate
 
